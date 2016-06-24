@@ -1,1 +1,7 @@
-{"name":"PHPagrant.github.io","tagline":"Generate vagrant skeletons for PHP projects","body":"### Ansible\r\n\r\n* http://phansible.com/\r\n\r\n### Chef\r\n\r\n* http://rove.io/\r\n\r\n### Puppet\r\n\r\n* https://puphpet.com/\r\n\r\n### Shell / Bash scripts\r\n\r\n* http://fideloper.github.io/Vaprobash/\r\n","google":"UA-48395907-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "PHPagrant.github.io",
+  "tagline": "Generate Vagrant and Docker skeletons for PHP projects",
+  "body": "### Vagrant + Provisioner\r\n\r\n#### Ansible\r\n\r\n* http://phansible.com/\r\n\r\n#### Chef\r\n\r\n* http://rove.io/\r\n\r\n#### Puppet\r\n\r\n* https://puphpet.com/\r\n\r\n#### Shell / Bash scripts\r\n\r\n* http://fideloper.github.io/Vaprobash/\r\n\r\n---\r\n\r\n### Docker (Orchestration via Docker Compose, Vagrantfile available too)\r\n\r\n* http://phpdocker.io/\r\n",
+  "google": "UA-48395907-1",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
